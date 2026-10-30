@@ -1,0 +1,4 @@
+# 바름국어과학학원 — Netlify 설정
+# 문자 알림 함수 위치 (submission-created: 상담 신청이 정상 접수되면 자동 실행)
+[functions]
+  directory = "netlify/functions"
